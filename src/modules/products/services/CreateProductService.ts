@@ -30,7 +30,6 @@ class CreateProductService {
       price,
       quantity,
     });
-    console.log('cheguei');
 
     return product;
   }
